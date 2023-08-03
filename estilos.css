@@ -68,12 +68,14 @@ header{
 }
 .tech-list{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-top: 10px;
 }
 
 .tech{
     height: 90px;
+    
+    
 }
 
 .tres{
